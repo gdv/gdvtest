@@ -1,4 +1,5 @@
-baseURL = "https://gianluca.dellavedova.org/"
+#baseURL = "https://gianluca.dellavedova.org/"
+baseURL = "https://gdvtest.pages.dev/"
 languageCode = "en-us"
 title = "Gianluca Della Vedova"
 theme = "minimal"

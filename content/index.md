@@ -81,3 +81,4 @@ would be impossible. Without better software, science cannot progress. But the c
 *   [Internet Defense League](http://internetdefenseleague.org)
 *   [NextCloud](https://nextcloud.com/)
 *   [Privacy tools](https://www.privacytools.io/)
+*   [Minimal theme for Hugo](https://github.com/calintat/minimal)

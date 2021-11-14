@@ -1,6 +1,6 @@
 ---
 title: "2018 09 08 Fixing Docker Permissions"
-date: 2021-11-14
+date: 2018-09-08
 tags: []
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: "2014 09 29 XEmacs Is Dead"
-date: 2021-11-14
+date: 2014-09-29
 tags: []
 draft: false
 ---

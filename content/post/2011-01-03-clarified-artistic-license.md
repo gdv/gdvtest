@@ -1,6 +1,6 @@
 ---
 title: "2011 01 03 Clarified Artistic License"
-date: 2021-11-14
+date: 2011-01-03
 tags: []
 draft: false
 ---

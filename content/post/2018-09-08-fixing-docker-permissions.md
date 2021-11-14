@@ -1,8 +1,7 @@
 ---
-title: "2018 09 08 Fixing Docker Permissions"
-description: ""
-draft: true
+layout: post
 ---
+
 
 # Fixing permissions for Docker
 
